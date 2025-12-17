@@ -41,7 +41,8 @@ main_seq.start(AES_ENV.agt.AES_seqr);
 phase.drop_objection(this);
 endtask
 
-endclass //apb_master_test extends superClass
+endclass 
 
 endpackage
+
 
