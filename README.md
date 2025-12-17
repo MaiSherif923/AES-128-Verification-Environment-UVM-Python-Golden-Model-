@@ -24,4 +24,5 @@ Regression-ready and scalable structure
 This project demonstrates how to bridge SystemVerilog/UVM and Python models in a clean, production-style workflow, enabling reuse of high-level reference implementations while maintaining RTL-accurate verification.
 
 <img width="1068" height="381" alt="image" src="https://github.com/user-attachments/assets/7e9d8e24-89a0-4fbb-99c9-9ebfb6fa170a" />
+<img width="1897" height="456" alt="image" src="https://github.com/user-attachments/assets/f5b3c063-db6c-4496-949d-90899fe872ad" />
 
